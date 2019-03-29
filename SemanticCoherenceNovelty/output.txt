@@ -1,0 +1,22 @@
+
+linear expression educational resource lesson explanation solution handout land worksheet simplify math present guide 
+practice linear expression match lesson rewrite example khanacadem re mean reinforce knowledge 
+---->The Semantic Coherence is : 0.7784000000000004
+practice linear expression match lesson rewrite example khanacadem re mean reinforce knowledge 
+linear expression interpret 
+---->The Semantic Coherence is : 0.6302
+linear expression interpret 
+expression educational resource lesson explanation rewrite solution handout land worksheet math present guide 
+---->The Semantic Coherence is : 0.9993999999999998
+expression educational resource lesson explanation rewrite solution handout land worksheet math present guide 
+practice expression educational resource rewrite handout land worksheet math present 
+---->The Semantic Coherence is : 0.9987999999999999
+practice expression educational resource rewrite handout land worksheet math present 
+expression educational resource match rewrite handout land worksheet math present 
+---->The Semantic Coherence is : 0.9983999999999997
+expression educational resource match rewrite handout land worksheet math present 
+expression educational resource lesson rewrite handout land worksheet math present guide 
+---->The Semantic Coherence is : 0.9998
+expression educational resource lesson rewrite handout land worksheet math present guide 
+linear expression educational resource lesson handout land worksheet simplify math present guide 
+---->The Semantic Coherence is : 1.0
