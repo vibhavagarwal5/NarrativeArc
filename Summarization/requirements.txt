@@ -1,1 +1,14 @@
-404: Not Found
+numpy==1.14.5
+SpeechRecognition==3.6.3
+selenium==3.12.0
+pytube==9.4.0
+textrank==0.1.0
+moviepy==0.2.3.5
+pandas==0.23.0
+requests==2.18.4
+textract==1.6.1
+pdfminer==20140328
+pydub==0.23.1
+sumy==0.7.0
+PyPDF2==1.26.0
+beautifulsoup4==4.7.1
