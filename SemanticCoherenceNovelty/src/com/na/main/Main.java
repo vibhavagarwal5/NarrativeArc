@@ -36,6 +36,7 @@ public class Main {
 			if (args[0].equalsIgnoreCase("AllPairs")){
         		//reading collection and random collection files
 				 //reading collection and random collection files
+				
 	            BufferedReader br1 = new BufferedReader(new FileReader("collection/Collection1"));
 	            BufferedReader br2 = new BufferedReader(new FileReader("collection/Collection2"));
 	            BufferedReader br3 = new BufferedReader(new FileReader("collection/Collection3"));
@@ -116,8 +117,8 @@ public class Main {
 			} else if (args[0].equalsIgnoreCase("create")) {
 				System.out.println("Cerating Term Co-occurence graph");
 				// Text preprocessing
-				PreProcessText.readJson();
-				PreProcessText.cleanData();
+//				 PreProcessText.readJson();
+				 PreProcessText.cleanData();
 				PreProcessText.keyWordExtraction();
 				// Creating co-occurence graph
 				CreateGraph.createGraph(Config.KEYWORDS_PATH);
@@ -507,6 +508,7 @@ public class Main {
        */
 		
 		System.out.println("string is "+sb1[0].toString());
+		System.out.println("Hai");
 		System.out.println("sb1.length "+sb1.length);
        //writing each coherence score in CollectionOutput file
        try(FileWriter fw = new FileWriter("collection/CollectionOutput2", true);

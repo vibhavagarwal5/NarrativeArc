@@ -1,0 +1,19 @@
+
+---------------------------------
+Lesson I ll say an addition or subtraction sentence You say the answer sevenths seventh
+---------------------------------
+Subtracting Fractions from Whole Numbers I ll say a subtraction sentence You say the subtraction sentence with the answer half
+---------------------------------
+Adding and Subtracting Fractions with Like Units This fluency activity reviews adding and subtracting like units mentally
+---------------------------------
+Application Problem Talk with your partner for seconds about strategies
+---------------------------------
+Lesson Concept Development Tell your partner how you might solve it
+---------------------------------
+Lesson Student Debrief Subtract fractions making like units numerically
+---------------------------------
+[(0.7393319556639314, 0.21960993886950858), (0.6499576239535995, 0.32917483805792), (0.46830773963971195, 0.3071865411126849), (0.7734355267010751, 0.4588640774887106), (0.883939099205973, 0.4223679130493972)]
+---------------------------------
+[(0.5688947790129092, 0.38241789201033993), (0.47191408190426404, 0.3295809942222756), (0.605888022038307, 0.41709305881948106), (0.8182969128173483, 0.6281886562369179)]
+---------------------------------
+[(0.47127717809280023, 0.2694312849968733), (0.554090665456102, 0.4493675597934792), (0.8905853412669896, 0.4428081543001433)]

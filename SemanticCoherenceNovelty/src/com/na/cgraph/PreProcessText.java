@@ -89,7 +89,7 @@ public class PreProcessText {
 		BufferedReader br = null;
 		BufferedWriter bw = null;
 		try {
-			br = new BufferedReader(new FileReader("data/CleaneddData.txt"));
+			br = new BufferedReader(new FileReader("data/CleaneddData_Science.txt"));
 			// br = new BufferedReader(new
 			// FileReader("data/KeywordsTrial.txt"));
 			// br = new BufferedReader(new FileReader("data/LAText.txt"));
@@ -144,8 +144,8 @@ public class PreProcessText {
 		BufferedReader br;
 		BufferedReader brs;
 		try {
-			br = new BufferedReader(new FileReader("data/LAText.txt"));
-			brs = new BufferedReader(new FileReader("data/stopWords.txt"));
+			br = new BufferedReader(new FileReader("./data/Latex.txt"));
+			brs = new BufferedReader(new FileReader("./data/stopWords.txt"));
 			String line;
 			HashMap<String, Integer> stopWords = new HashMap<String, Integer>();
 			try {
@@ -159,7 +159,7 @@ public class PreProcessText {
 			}
 
 			BufferedWriter bw = new BufferedWriter(new FileWriter(
-					"data/CleaneddData.txt"));
+					"./data/CleaneddData_Science.txt"));
 			Locale locale1 = new Locale("en");
 
 			try {

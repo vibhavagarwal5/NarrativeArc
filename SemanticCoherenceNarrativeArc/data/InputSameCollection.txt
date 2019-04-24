@@ -1,8 +1,0 @@
-[{"id":"8cf70242-3808-40c0-95b4-e164d6bfb615","title":"Simplifying Linear Expressions SOLUTIONS","description":"Math Worksheets Land presents Simplifying Linear Expressions Guided Lesson Explanation, an educational handout resource on math."}]
-[{"id":"cf46085b-a4c2-45c5-81b5-a606c0bdd673","title":"Rewriting Linear Expressions","description":"We match the expressions to their meaning in this example. We're reinforcing our knowledge of linear expressions. Practice this lesson yourself on KhanAcadem..."}]
-[{"id":"3070c580-7743-40ab-8b50-4abf4782ef62","title":"Interpreting Linear Expressions","description":null}]
-[{"id":"8ece659a-5a9d-41c7-bce0-0aa074f7e4ef","title":"Rewriting Expressions SOLUTIONS","description":"Math Worksheets Land presents Rewriting Expressions Guided Lesson Explanation, an educational handout resource on math."}]
-[{"id":"6b484c85-cc20-4efa-b3d2-0ffae4f59711","title":"Rewriting Expressions Practice Worksheet","description":"Math Worksheets Land presents Rewriting Expressions Practice Worksheet, an educational handout resource on math."}]
-[{"id":"d192dc79-f5e5-4ef7-b29e-1371d93dad90","title":"Rewriting Expressions Matching Worksheet","description":"Math Worksheets Land presents Rewriting Expressions Matching Worksheet, an educational handout resource on math."}]
-[{"id":"3117996c-71fc-4718-ace8-0198a9fdc322","title":"Rewriting Expressions","description":"Math Worksheets Land presents Rewriting Expressions Guided Lesson, an educational handout resource on math."}]
-[{"id":"0000068e-8d5f-4400-88bd-8d5e0bdc89c7","title":"Simplifying Linear Expressions","description":"Math Worksheets Land presents Simplifying Linear Expressions Guided Lesson, an educational handout resource on math."}]

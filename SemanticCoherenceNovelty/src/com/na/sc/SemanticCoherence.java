@@ -218,7 +218,7 @@ public class SemanticCoherence {
 		//for first string
 		//Calculating the keyphrases
 		//E.g Numbers become Number, brought becomes bring
-    	System.out.println("semantic coherence novelty");
+    	System.out.println("entered semantic coherence novelty");
 		ArrayList<String> K1 = extractKeyPhrases(entity1);
 		// get the semantic context of Context of keyPhrases.
 		//i.e total number of neighboring nodes
@@ -302,6 +302,7 @@ public class SemanticCoherence {
         boolean flag = false;
         int out1 = (Config.noOfRandomWalks/3);
         int matrixSize = transitionGraph.length;
+        System.out.println(matrixSize);
 
         for (int j = 0; j < out1; j++)
         {
