@@ -1,12 +1,9 @@
-# NarrativeArc
-The goal of this project is to create a coherent narrative arc to acquire given competency.
+## Pathway Generation
 
-## About
-The code generates a new collection using pair-wise score learnt from given collections. Currently, the scoring function uses GloVe embeddings weighted by TFIDF values.
+Visulization Folder contains all the visulization code(Jupyter Notebooks) like PCA and t-SNE visulizations
 
-## Software installation
-Use "pip3 -r requirements.txt" to install the required packages for python3
-
-## Usage
-* Download and place glove.6B.50d.txt (https://nlp.stanford.edu/projects/glove/ )file in data directory.
-* Use "python generate_collection.py" from src directory to create a new collection
+src folder contains
+* `JupyterNB`: This folder has jupyter files for pathway experiments
+* `old_code_abhiramon`: This folder contains code written by Abhiramon
+* `embeddings.py`: This file contains functions for giving different typed of embeddings for a learning resources
+* `util.py`: This file contails utility functions.

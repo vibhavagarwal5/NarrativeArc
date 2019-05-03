@@ -69,8 +69,7 @@ This function calculates the coherence score between consecutive learning resour
  This function calculates the coherence score between consecutive learning resources pairs (e.g. (LA1,LA2),(LA2,LA3),.....) SemanticCoherence.getWord2VecSemanticCoherence(LA1,LA2) finds coherence score between LA1 and LA2 using word2vec method
         
 (pairCoherence method)
-This function calculates the coherence score between consecutive learning resources pairs (e.g. (LA1,LA2),(LA2,LA3),.....) SemanticCoherence.getSemanticCoherence(LA1,LA2) finds coherence score between LA1 and LA2 using Graph Kernel approach.
-
+This function calculates the coherence score between consecutive learning resources pairs (e.g. (LA1,LA2),(LA2,LA3),.....) SemanticCoherence.getSemanticCoherence(LA1,LA2) finds coherence score between LA1 and LA2 using Graph
 (resourceCoherence method)
 This function calculates the coherence score between every possible learning resource pair. SemanticCoherence.getSemanticCoherence(LA1,LA2) finds coherence score between LA1 and LA2 using Graph Kernel approach.
 	   
@@ -112,3 +111,10 @@ All files pertaining to cleaning and processing of the input file while creating
 ------------------------------------------------------
 Included cluster_schema.sql file inside resources folder in order to create database. For ranking the resources, need to use Order By clause in sql query.
 ------------------------------------------------------
+
+
+Note:
+
+**The file generate_collection_SVM_LSTM_Science.ipynb is used to generate the collections. It is place here as it is accessing the Java code on backend.**
+
+**To run `generate_collection_SVM_LSTM_Science.ipynb` you need a Temp folder which has all the models (Doc2Vec, Word2Vec, Lda etc.) required to run. You can collect the folder from mentor and place it in this foler.**
